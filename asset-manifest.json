@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shoppingCheckoutProgressBar/static/css/main.82229379.css",
+    "main.js": "/shoppingCheckoutProgressBar/static/js/main.c0f4c8ff.js",
+    "index.html": "/shoppingCheckoutProgressBar/index.html",
+    "main.82229379.css.map": "/shoppingCheckoutProgressBar/static/css/main.82229379.css.map",
+    "main.c0f4c8ff.js.map": "/shoppingCheckoutProgressBar/static/js/main.c0f4c8ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82229379.css",
+    "static/js/main.c0f4c8ff.js"
+  ]
+}
